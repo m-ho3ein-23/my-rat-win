@@ -1,10 +1,8 @@
-#🗡️ new tool rat 🗡️
-
-
-created : m_ho3ein-23 👌
+# new tool rat 
 
 -------------------------------------------------------------------
-Language use : python3 / sh / c
+created : m_ho3ein-23 👌
+Language use : python3 / sh / c 🗡️
 
 
 
