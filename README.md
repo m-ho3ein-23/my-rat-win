@@ -43,4 +43,5 @@ https://user-images.githubusercontent.com/97868503/149715173-19a6547d-fb22-4f26-
     
     
 ## version bot telegram:
-    ![Screenshot 2022-02-14 095053](https://user-images.githubusercontent.com/97868503/153810737-6339a532-1357-4003-b2ae-b5336907de88.png)
+
+![Screenshot 2022-02-14 095053](https://user-images.githubusercontent.com/97868503/153810737-6339a532-1357-4003-b2ae-b5336907de88.png)
