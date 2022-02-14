@@ -30,6 +30,9 @@ https://user-images.githubusercontent.com/97868503/149715173-19a6547d-fb22-4f26-
     [10] voice
     [11] off_rat && break
     [12] upload file & download file 
+    [14] /camera
+    [15] /screenshot
+    [17] /download [path]
     
     
     
